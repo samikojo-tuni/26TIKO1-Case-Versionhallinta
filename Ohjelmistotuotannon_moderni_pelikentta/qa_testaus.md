@@ -9,3 +9,7 @@ alusta alkaen
 
 
 ### Automaattinen Testaus
+
+Automaattinen testaus ohjelmistotuotannossa tarkoittaa 
+ohjelmistotestien suorittamista erillisten ohjelmistotyökalujen, skriptien, tekoälyn ja ennalta
+määriteltyjen skenaarioiden avulla ilman jatkuvaa manuaalista työtä
