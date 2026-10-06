@@ -17,6 +17,7 @@ Dokumentin sisältö tuotettiin tasapuolisella työpanoksella. Molemmat osallist
 ## Grafiikat-pelimoottorissa.md
 
 **Tekijät:** Nuutti ja Tinja
+
 Nuutti vastasi dokumentin pohjan luomisesta ja viimeistelystä, Tinja teki korjauksia ja lisäyksiä. Projektin eteneminen oli sujuvaa, eikä merkittäviä konflikteja syntynyt.
 
 ## Peligrafiikoiden-luominen.md
